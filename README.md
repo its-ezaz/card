@@ -61,4 +61,3 @@ Ideal for:
 
 ---
 
-Let me know if you want a downloadable README or enhancements like touch support or flip on click.
